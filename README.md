@@ -1,0 +1,2 @@
+# antipatterns
+Antipatterns za ruby
